@@ -22,3 +22,6 @@
 - ~~Add to startup~~</br>
 - ~~Add test mode~~</br>
 - ~~Hide desktop~~</br>
+- ~~Add from Desktop to starup~~</br>
+- ~~Add from Downloads to startup~~</br>
+- ~~Add from Telegram Downloads~~</br>
